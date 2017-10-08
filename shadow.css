@@ -13,16 +13,16 @@
   top: 0;
   left: 0;
 
-  background: #222222;
+  background: #568;
   color: white;
 
-  border-radius: 5px;
-  padding: 5px;
-  margin: 10px 10px 10px 15px;
+  border-radius: 3px;
+  padding: 3px;
+  margin: 4px 0px 0px 4px;
 
   cursor: default;
   z-index: 9999999;
-  opacity: 0.9;
+  opacity: 0.8;
 }
 
 #controller:hover {
