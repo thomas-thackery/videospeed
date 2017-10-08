@@ -13,7 +13,7 @@
   top: 0;
   left: 0;
 
-  background: black;
+  background: #222222;
   color: white;
 
   border-radius: 5px;
@@ -22,7 +22,7 @@
 
   cursor: default;
   z-index: 9999999;
-  opacity: 0.3;
+  opacity: 0.9;
 }
 
 #controller:hover {
